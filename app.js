@@ -6,4 +6,5 @@ var nomeMicael = "Micael"
 var nomePedro =  "Pedro"
 var u = 9
 var nomeMoises = "Moisés"
-
+var nomeMoises = "Moisés"
+var nomeAfonso = "Afonso"
